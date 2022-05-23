@@ -1,6 +1,6 @@
 ---
 title: "Hola"
-author: "Brayan_Laverde"
+author: "brayan_laverde"
 date: "23/5/2022"
 output: html_document
 ---
@@ -11,7 +11,7 @@ mtcars
 
 
 ## Sub
-
+hola
 <!--- HTML --->
 
 
